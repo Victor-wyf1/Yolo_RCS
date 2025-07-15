@@ -2,7 +2,7 @@
 # 项目介绍
 通过yolo视觉识别的方式，自适应轮廓框选出金属球的RCS成像
 
-<img width="875" height="656" alt="2_overlay_4" src="https://github.com/user-attachments/assets/ffcbd585-81d9-4a59-844b-bccca69fa716" />
+
 
 # 功能
 从给定的雷达成像图，区分出不同角度下，暗弱回波的金属球成像，自动划分边缘，用绿色覆盖被识别的区域
@@ -30,6 +30,8 @@
 7. 运用模型进行预测，predict新的图像，可以改置信度
     
 8. 导出叠加图
+   
+<img width="875" height="656" alt="2_overlay_4" src="https://github.com/user-attachments/assets/ffcbd585-81d9-4a59-844b-bccca69fa716" />
    
 ## 环境说明
 python 3.13
