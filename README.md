@@ -51,8 +51,8 @@ Main
 │       └── val（选取一半 txt 用于验证）
 ├── tmp （临时存放灰度图和 label 的，程序路径中可能用得到）
 └── config.yaml
+```
 
- 
  ## 运行结果
  
  结果在pycharm的RCS_imaged的runs和outputs下
