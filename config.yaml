@@ -1,0 +1,6 @@
+path: D:\Download\SummerNUAA\segment_plane_RCS_image\data
+train: images/train 
+val: images/val  
+
+nc: 1
+names: ['RCS']
