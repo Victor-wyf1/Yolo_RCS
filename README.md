@@ -39,7 +39,7 @@ yolo v8
 GPU cuda 12.8
 
 ## 文件夹层级结构
-
+```text
 Main
 ├── 原图
 ├── data
