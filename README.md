@@ -50,7 +50,11 @@ Main
       ---val（选取一半txt用于验证）
  -tmp（临时存放灰度图和label的，程序的路径中可能用得到）
  -config.yaml
+ 
  ## 运行结果
+ 
  结果在pycharm的RCS_imaged的runs和outputs下
+ 
  runs：每次训练的best和last.pt
+ 
  outputs：图像抠像和添加了mask的结果
