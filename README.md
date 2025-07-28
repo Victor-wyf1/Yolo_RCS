@@ -21,7 +21,7 @@
    
 3. 将原图用cvat.ai网站进行标注，用draw new polygon画出边缘。对于边缘相连的图像，用不同的label标注，否则程序自动判断为一个整体。
    
-4. 将标注好的文件导出为segmention mask
+4. 将标注好的文件导出为segmentation mask
    
 5. 运行mask to polygons，将mask转成带有标记点坐标的label
     
