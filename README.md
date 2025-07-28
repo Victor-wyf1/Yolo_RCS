@@ -52,7 +52,7 @@ Main
 │       ├── train（和灰度图名称数量一致——对应的 txt 文件，包含标注点的坐标信息）
 │       └── val（选取一半 txt 用于验证）
 ├── tmp （临时存放灰度图和 label 的，程序路径中可能用得到）
-└── config.yaml
+└── config.yaml（在各级data文件夹里）
 ```
 
  ## 运行结果
